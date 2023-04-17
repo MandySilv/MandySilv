@@ -11,7 +11,7 @@ I am a programming student at SENAI - Osasco
 
 🌱 My name is _Amanda Silva_. I currently live in São Paulo - Brazil.
 
-🔭 I'm currently learning HTML, CSS, Java, git
+🔭 I'm currently learning HTML, CSS, Java, git.
 
 ---
 
