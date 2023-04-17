@@ -15,4 +15,4 @@ I am a programming student at SENAI - Osasco
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandysilv&layout=compact&theme=dark&border=3A218B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandySilv&layout=compact&theme=dark&border=3A218B)
